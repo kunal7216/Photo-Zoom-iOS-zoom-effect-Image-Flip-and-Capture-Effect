@@ -1,3 +1,4 @@
+
 const videoElement = document.getElementById("videoElement");
 let firstInteractionDone = false;
 
